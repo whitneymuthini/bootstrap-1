@@ -1,0 +1,19 @@
+p{
+    font-family: Arial,;
+    font-size: 26px;
+    display: block;
+}
+.vision,.core-values{
+    background-color: #03aff3;
+    color: black;
+}
+.mission {
+    background-color: #f07212;
+    color: black;
+}
+.section-content{
+
+    color: black;
+    font-size: 1,3rem;
+}
+
